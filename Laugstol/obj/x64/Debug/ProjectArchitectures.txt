@@ -1,0 +1,1 @@
+C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Laugstol.csproj;x64
