@@ -9,3 +9,15 @@ Assets\StoreLogo.png
 Assets\Wide310x150Logo.scale-200.png
 Laugstol.xr.xml
 Properties\Default.rd.xml
+Site\index.html
+Site\index.js
+Site\installation.js
+Site\templates\dev\dev.js
+Site\templates\dev\index.html
+Site\templates\dev\module.js
+Site\templates\intro\index.html
+Site\templates\intro\intro.js
+Site\templates\intro\module.js
+Site\templates\yr\index.html
+Site\templates\yr\module.js
+Site\templates\yr\yr.js

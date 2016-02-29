@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="9dada596-cd29-478d-9f8b-af3e6cec1025" Publisher="CN=Thomas Lian" Version="1.0.0.0" ProcessorArchitecture="x64" />
+  <Identity Name="Laustol-alpha" Publisher="CN=Thomas Lian" Version="1.0.0.0" ProcessorArchitecture="x64" />
   <mp:PhoneIdentity PhoneProductId="9dada596-cd29-478d-9f8b-af3e6cec1025" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Laugstol</DisplayName>
@@ -26,6 +26,9 @@
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"></uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
       </uap:VisualElements>
+      <uap:ApplicationContentUriRules>
+        <uap:Rule Match="http://yr.no/*" Type="include" WindowsRuntimeAccess="all" />
+      </uap:ApplicationContentUriRules>
     </Application>
   </Applications>
   <Capabilities>

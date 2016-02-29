@@ -9,16 +9,16 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>9dada596-cd29-478d-9f8b-af3e6cec1025</PackageIdentityName>
-    <IntermediateOutputPath>c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\obj\x86\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\bin\x86\Debug\Laugstol.exe">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\bin\x86\Debug\Laugstol.exe">
       <PackagePath>entrypoint\Laugstol.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Thomas Lian\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -339,49 +339,85 @@
     <AppxPackagedFile Include="C:\Users\Thomas Lian\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\installation.js">
+      <PackagePath>Site\installation.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\index.js">
+      <PackagePath>Site\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\dev\dev.js">
+      <PackagePath>Site\templates\dev\dev.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\dev\module.js">
+      <PackagePath>Site\templates\dev\module.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\intro\intro.js">
+      <PackagePath>Site\templates\intro\intro.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\intro\module.js">
+      <PackagePath>Site\templates\intro\module.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\yr\module.js">
+      <PackagePath>Site\templates\yr\module.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\yr\yr.js">
+      <PackagePath>Site\templates\yr\yr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\index.html">
+      <PackagePath>Site\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\dev\index.html">
+      <PackagePath>Site\templates\dev\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\intro\index.html">
+      <PackagePath>Site\templates\intro\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\yr\index.html">
+      <PackagePath>Site\templates\yr\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\bin\x86\Debug\Laugstol.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\bin\x86\Debug\Laugstol.xr.xml">
       <PackagePath>Laugstol.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\bin\x86\Debug\Core\Laugstol.exe">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\bin\x86\Debug\Core\Laugstol.exe">
       <PackagePath>Laugstol.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -92,8 +92,18 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Site\installation.js" />
     <Content Include="Site\index.html" />
     <Content Include="Site\index.js" />
+    <Content Include="Site\templates\dev\dev.js" />
+    <Content Include="Site\templates\dev\index.html" />
+    <Content Include="Site\templates\dev\module.js" />
+    <Content Include="Site\templates\intro\index.html" />
+    <Content Include="Site\templates\intro\intro.js" />
+    <Content Include="Site\templates\intro\module.js" />
+    <Content Include="Site\templates\yr\index.html" />
+    <Content Include="Site\templates\yr\module.js" />
+    <Content Include="Site\templates\yr\yr.js" />
     <None Include="project.json" />
     <None Include="Site\.gitignore" />
     <None Include="Site\chrome.bat" />
@@ -135,9 +145,7 @@
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Site\templates\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

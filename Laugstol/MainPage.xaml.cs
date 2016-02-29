@@ -25,7 +25,9 @@ namespace Laugstol
         public MainPage()
         {
             this.InitializeComponent();
-            Browser.PermissionRequested += Browser_PermissionRequested; ;
+            Browser.PermissionRequested += Browser_PermissionRequested;
+            Browser.Settings.IsJavaScriptEnabled = true;
+            Browser.Settings.IsIndexedDBEnabled = true;
             Browser.Navigate(new Uri("ms-appx-web:///Site/index.html"));
         }
 

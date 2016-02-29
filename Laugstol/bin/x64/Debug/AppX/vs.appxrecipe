@@ -9,26 +9,26 @@
     <SolutionConfiguration>Debug|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>9dada596-cd29-478d-9f8b-af3e6cec1025</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\obj\x64\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>EA9A7977EECAA01D04561F4C25E8936001561DD9EAAB40EF10520E6B17642152</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>9dada596-cd29-478d-9f8b-af3e6cec1025_1.0.0.0_x64__0mwv1mmb8zdtj</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>9dada596-cd29-478d-9f8b-af3e6cec1025_0mwv1mmb8zdtj!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>9dada596-cd29-478d-9f8b-af3e6cec1025</RegisteredPackageID>
+    <IntermediateOutputPath>C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E6EA2809C554F75A4E11107AC796B47C7E44201B95954BEFD44FE9F195F4EDF3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Laustol-alpha_1.0.0.0_x64__0mwv1mmb8zdtj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Laustol-alpha_0mwv1mmb8zdtj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Laustol-alpha</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Thomas Lian</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-02-25T09:29:52.973</Modified>
+      <Modified>2016-02-25T12:45:20.851</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\bin\x64\Debug\Laugstol.exe">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\bin\x64\Debug\Laugstol.exe">
       <PackagePath>entrypoint\Laugstol.exe</PackagePath>
-      <Modified>2016-02-25T09:29:49.454</Modified>
+      <Modified>2016-02-25T12:45:15.183</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Thomas Lian\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -454,57 +454,97 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-10-01T06:10:39.627</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
       <Modified>2016-02-24T10:38:24.017</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Site\index.html">
-      <PackagePath>Site\index.html</PackagePath>
-      <Modified>2016-02-25T09:28:09.193</Modified>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\installation.js">
+      <PackagePath>Site\installation.js</PackagePath>
+      <Modified>2016-02-25T10:45:52.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Site\index.js">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\index.js">
       <PackagePath>Site\index.js</PackagePath>
       <Modified>2016-02-25T09:28:09.196</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\dev\dev.js">
+      <PackagePath>Site\templates\dev\dev.js</PackagePath>
+      <Modified>2016-02-25T09:28:09.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\dev\module.js">
+      <PackagePath>Site\templates\dev\module.js</PackagePath>
+      <Modified>2016-02-25T09:28:09.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\intro\intro.js">
+      <PackagePath>Site\templates\intro\intro.js</PackagePath>
+      <Modified>2016-02-25T09:28:09.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\intro\module.js">
+      <PackagePath>Site\templates\intro\module.js</PackagePath>
+      <Modified>2016-02-25T09:28:09.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\yr\module.js">
+      <PackagePath>Site\templates\yr\module.js</PackagePath>
+      <Modified>2016-02-25T09:28:09.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\yr\yr.js">
+      <PackagePath>Site\templates\yr\yr.js</PackagePath>
+      <Modified>2016-02-25T12:37:08.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\index.html">
+      <PackagePath>Site\index.html</PackagePath>
+      <Modified>2016-02-25T09:28:09.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\dev\index.html">
+      <PackagePath>Site\templates\dev\index.html</PackagePath>
+      <Modified>2016-02-25T09:28:09.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\intro\index.html">
+      <PackagePath>Site\templates\intro\index.html</PackagePath>
+      <Modified>2016-02-25T09:28:09.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Site\templates\yr\index.html">
+      <PackagePath>Site\templates\yr\index.html</PackagePath>
+      <Modified>2016-02-25T09:28:09.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-02-24T10:38:07.614</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-10-10T20:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T20:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T20:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T20:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T20:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T20:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T20:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\bin\x64\Debug\Laugstol.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\bin\x64\Debug\Laugstol.xr.xml">
       <PackagePath>Laugstol.xr.xml</PackagePath>
       <Modified>2016-02-25T09:29:48.786</Modified>
     </AppxPackagedFile>
@@ -512,13 +552,13 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2015-12-18T12:52:23.645</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-02-25T09:29:52.375</Modified>
+      <Modified>2016-02-25T12:45:19.991</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Thomas Lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\bin\x64\Debug\Core\Laugstol.exe">
+    <AppxPackagedFile Include="C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\bin\x64\Debug\Core\Laugstol.exe">
       <PackagePath>Laugstol.exe</PackagePath>
-      <Modified>2016-02-25T09:29:52.958</Modified>
+      <Modified>2016-02-25T12:45:20.830</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

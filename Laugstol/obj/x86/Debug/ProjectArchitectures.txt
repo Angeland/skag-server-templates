@@ -1,1 +1,1 @@
-c:\users\thomas lian\documents\visual studio 2015\Projects\Laugstol\Laugstol\Laugstol.csproj;x86
+C:\Users\Thomas Lian\Desktop\Repo\skag-server-templates\Laugstol\Laugstol.csproj;x86
